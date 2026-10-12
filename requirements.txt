@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+shap
+lime
+jupyter
