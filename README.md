@@ -9,6 +9,8 @@ For every driver in every Formula 1 race, we predict whether they finish on the 
 | 58-1804 | Marwan Yasser Fahmy Gaber Mohamed |
 | 58-1753 | Ahmed Mohamed Sayed Ahmed Abdelghaffar |
 
+**Kaggle notebook:** https://www.kaggle.com/code/alielharras/team-52-f1-podium-prediction
+
 ## Repository contents
 
 | File / folder | What it is |
@@ -44,7 +46,7 @@ Then use **Run All**. The notebook reads the data from `data/raw/` and runs top 
 
 **On Kaggle**
 
-Import the notebook, attach the dataset above (or upload the 14 CSV files from `data/raw/` as a dataset) and click **Run All**. The notebook finds the CSV files under `/kaggle/input/` automatically, so no code changes are needed.
+The notebook is published with all outputs at https://www.kaggle.com/code/alielharras/team-52-f1-podium-prediction. To run your own copy, import the notebook, attach the dataset above (or upload the 14 CSV files from `data/raw/` as a dataset) and click **Run All**. The notebook finds the CSV files under `/kaggle/input/` automatically, so no code changes are needed.
 
 ## What the notebook does
 
